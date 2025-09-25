@@ -1,4 +1,4 @@
-# Cooking Recipe Database Management
+# CulinaryHub - MERN Stack Recipe Management Platform
 ![Language](https://img.shields.io/badge/Backend-Node.js-green?style=flat-square)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue?style=flat-square)
 ![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square)
@@ -18,3 +18,4 @@ This project is a fully functioning website for managing cooking recipes. It inc
 2. Install dependencies for the server: `npm install`.
 3. Start the server: `node server.js`.
 4. Open `client/index.html` in a browser to view the frontend.
+
